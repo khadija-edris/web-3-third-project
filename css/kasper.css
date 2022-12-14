@@ -70,7 +70,7 @@ ul {
 }
 .main-heading h2::after {
   content: ""; /* content include with thinges you put */
-  position: absolute;
+  position: absolute; /* posting method used for a linkes is absolute*/
   left: 50%;
   transform: translateX(-50%);
   width: 14px;
