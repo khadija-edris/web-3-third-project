@@ -65,7 +65,7 @@ ul {
   transform: translateX(-50%); /* the position move to left */
   height: 2px; /*the hight is 2px*/
   background-color: #333; /*background coloring */
-  bottom: -30px;
+  bottom: -30px; /*aligend to the bottom */
   width: 120px;
 }
 .main-heading h2::after {
