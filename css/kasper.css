@@ -10,7 +10,7 @@
   -webkit-box-sizing: border-box; /*-webkit-box-sizing is border-box*/
   -moz-box-sizing: border-box; /*-moz-box-sizing is border-box*/
   box-sizing: border-box; /*box-sizing is border-box*/
-  padding: 0;
+  padding: 0; /*space inside the border*/
   margin: 0;
 } 
 html {
