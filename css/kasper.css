@@ -54,7 +54,7 @@ ul {
 .main-heading h2 {
   font-weight: normal; /*font weight is normal*/
   font-size: 40px; /*font size is 40px*/
-  position: relative;
+  position: relative; /* posting method used for a linkes is relative */
   margin-bottom: 70px;
   text-transform: uppercase;
 }
