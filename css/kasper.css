@@ -49,7 +49,7 @@ ul {
 /* End Global Rules */
 /* Start Components */
 .main-heading {
-  text-align: center;
+  text-align: center; /*the position of text in center*/
 }
 .main-heading h2 {
   font-weight: normal;
