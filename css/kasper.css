@@ -60,7 +60,7 @@ ul {
 }
 .main-heading h2::before {
   content: "";
-  position: absolute;
+  position: absolute; /* posting method used for a linkes is absolute */
   left: 50%;
   transform: translateX(-50%);
   height: 2px;
