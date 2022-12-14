@@ -2,7 +2,7 @@
 :root {
   --main-color: #19c8fa;   /*the color main is babyblue*/
   --transparent-color: rgb(15 116 143 / 70%); /* the transparent of color rgb is (15 116 143 / 70%) */
-  --section-padding: 100px;
+  --section-padding: 100px; /*space inside the border*/
 }
 /* End Variables */
 /* Start Global Rules */
