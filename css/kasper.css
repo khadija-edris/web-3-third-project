@@ -52,7 +52,7 @@ ul {
   text-align: center; /*the position of text in center*/
 }
 .main-heading h2 {
-  font-weight: normal;
+  font-weight: normal; /*font weight is normal*/
   font-size: 40px;
   position: relative;
   margin-bottom: 70px;
