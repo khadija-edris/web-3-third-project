@@ -61,7 +61,7 @@ ul {
 .main-heading h2::before {
   content: "";
   position: absolute; /* posting method used for a linkes is absolute */
-  left: 50%;
+  left: 50%; /* effect to position left is 50%*/
   transform: translateX(-50%);
   height: 2px;
   background-color: #333;
