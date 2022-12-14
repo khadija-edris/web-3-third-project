@@ -69,7 +69,7 @@ ul {
   width: 120px; /* width = 129px */
 }
 .main-heading h2::after {
-  content: "";
+  content: ""; /* content include with thinges you put */
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
