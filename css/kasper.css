@@ -56,7 +56,7 @@ ul {
   font-size: 40px; /*font size is 40px*/
   position: relative; /* posting method used for a linkes is relative */
   margin-bottom: 70px; /* space outside bottom the text is 70px */
-  text-transform: uppercase;
+  text-transform: uppercase; /* text is in uppercase */
 }
 .main-heading h2::before {
   content: "";
