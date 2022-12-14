@@ -62,7 +62,7 @@ ul {
   content: "";
   position: absolute; /* posting method used for a linkes is absolute */
   left: 50%; /* effect to position left is 50%*/
-  transform: translateX(-50%);
+  transform: translateX(-50%); /* the position move to left */
   height: 2px;
   background-color: #333;
   bottom: -30px;
