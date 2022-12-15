@@ -788,7 +788,7 @@ header nav .form i {
   padding-top: var(--section-padding); /*space top inside the border*/
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
   background-image: url("../images/OIP\ \(10\).jpg"); 
-  background-size: cover;
+  background-size: cover; 
   position: relative;
   color: white;
 } 
