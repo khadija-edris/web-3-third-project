@@ -603,7 +603,7 @@ header nav .form i {
     text-align: center; /*the position of item in center*/
   }
   .our-skills .testimonials .content img {
-    margin: 0 auto 20px;
+    margin: 0 auto 20px; /*space outside the text*/
   }
 }
 .our-skills .testimonials .text {
