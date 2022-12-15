@@ -154,7 +154,7 @@ header nav ul li a {
   display: block; /*specifies the display is block*/
   color: white; /*word color is wight*/
   text-decoration: none; /*the style of text*/
-  font-size: 14px;
+  font-size: 14px; /*font-size is 14px*/
   transition: 0.3s;
   position: relative;
   z-index: 2;
