@@ -417,7 +417,7 @@ header nav .form i {
   background-color: white; 
   width: 100%; /*width is 100%*/
   transition: 0.3s; /*A slight effect period 3s*/
-  bottom: -100%;
+  bottom: -100%; /*aligen to bottom*/
 }
 .portfolio .imgs-container .box .caption h4 {
   font-weight: normal;
