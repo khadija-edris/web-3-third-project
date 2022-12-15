@@ -704,7 +704,7 @@ header nav .form i {
 /* Start Pricing */ 
 .pricing { 
   padding-top: var(--section-padding); /*space top inside the border*/
-  padding-bottom: var(--section-padding);
+  padding-bottom: var(--section-padding); /*space bottom inside the border*/
 } 
 .pricing .plans {
   display: grid;
