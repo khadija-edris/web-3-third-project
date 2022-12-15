@@ -317,7 +317,7 @@ header nav .form i {
   overflow: hidden;
 } 
 .design::before {
-  content: "";
+  content: ""; /*content include with thinges you put*/
   position: absolute;
   left: 0;
   top: 0;
