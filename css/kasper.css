@@ -83,7 +83,7 @@ ul {
 .main-heading p {
   width: 550px; /* width = 550px */
   margin: 0 auto 100px; /* space outside the text */
-  max-width: 100%;
+  max-width: 100%; /* the max of width = 100% */
   line-height: 2;
   color: #777;
 }
