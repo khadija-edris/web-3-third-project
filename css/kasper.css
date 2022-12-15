@@ -735,7 +735,7 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/ 
   top: -40px; /*aligen to top*/
   margin-right: 15px; /*space outside right the text is 15px*/
-  font-weight: normal;
+  font-weight: normal; /*font-weight is normal*/
 } 
 .pricing .plans .plan .head span::after {
   content: "/Mo";
