@@ -675,7 +675,7 @@ header nav .form i {
 /* End Skills */
 /* Start Quote */
 .quote {
-  padding-top: var(--section-padding);
+  padding-top: var(--section-padding); /*space top inside the border*/
   padding-bottom: var(--section-padding);
   background-image: url("../images/OIP\ \(9\).jpg");
   background-size: cover;
