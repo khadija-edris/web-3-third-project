@@ -773,7 +773,7 @@ header nav .form i {
   margin: 50px auto 20px; /*space outside the text*/
   font-size: 20px; /*font-size is 20px*/
 } 
-.pricing .contact-link {
+.pricing .contact-link { 
   display: block;
   width: fit-content;
   margin: 20px auto;
@@ -781,7 +781,7 @@ header nav .form i {
   color: white;
   padding: 15px 30px;
   text-decoration: none;
-}
+} 
 /* End Pricing */
 /* Start Subscribe */
 .subscribe {
