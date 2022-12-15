@@ -706,11 +706,11 @@ header nav .form i {
   padding-top: var(--section-padding); /*space top inside the border*/
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
 } 
-.pricing .plans {
+.pricing .plans { 
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 30px;
-}
+} 
 .pricing .plans .plan {
   background-color: #fcfcfc;
   text-align: center;
