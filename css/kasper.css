@@ -483,7 +483,7 @@ header nav .form i {
 .about {
   padding-top: var(--section-padding); /*space top inside the border*/
   overflow: hidden; /*The overflow is clipped, and the rest of the content will be invisible*/
-  text-align: center;
+  text-align: center; /*the position of item in center*/
 }
 .about img {
   position: relative;
