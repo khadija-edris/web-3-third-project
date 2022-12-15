@@ -292,7 +292,7 @@ header nav .form i {
     margin-bottom: 40px; /*space outside right the text is 50px*/
   }
   .services .srv-box i {
-    margin: 0 0 30px;
+    margin: 0 0 30px; /*space outside the text is 0 0 30px*/
   }
 }
 .services .srv-box h3 {
