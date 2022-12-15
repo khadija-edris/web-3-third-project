@@ -638,7 +638,7 @@ header nav .form i {
 }
 .our-skills .skills .prog-holder h4 {
   margin-bottom: 15px; /*space outside bottom the text is 15px*/
-  font-weight: normal;
+  font-weight: normal; 
   text-transform: uppercase;
 }
 .our-skills .skills .prog-holder .prog {
