@@ -739,7 +739,7 @@ header nav .form i {
 } 
 .pricing .plans .plan .head span::after { 
   content: "/Mo"; /*content include with thinges you put*/
-  font-size: 20px;
+  font-size: 20px; /*font-size is 25px*/
   position: relative;
   right: -15px;
 } 
