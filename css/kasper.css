@@ -183,7 +183,7 @@ header nav .form i {
 /* Start Landing */
 .landing {
   min-height: 100vh; /*minumam height is 100vh*/
-  background-color: #1f2021;
+  background-color: #1f2021; /*background coloring*/
   background-image: url("../images/landing.jpg");
   background-size: cover;
   position: relative;
