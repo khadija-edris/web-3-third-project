@@ -774,7 +774,7 @@ header nav .form i {
   font-size: 20px; /*font-size is 20px*/
 } 
 .pricing .contact-link { 
-  display: block;
+  display: block; /*specifies the display is block*/
   width: fit-content;
   margin: 20px auto;
   background-color: var(--main-color);
