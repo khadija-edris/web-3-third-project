@@ -383,7 +383,7 @@ header nav .form i {
 }
 .portfolio .imgs-container {
   display: flex; /*specifies the display is flex*/
-  flex-wrap: wrap;
+  flex-wrap: wrap; /*the flexible length on flexible items*/
   margin-top: 60px;
 }
 .portfolio .imgs-container .box {
