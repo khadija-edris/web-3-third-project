@@ -734,7 +734,7 @@ header nav .form i {
   font-size: 25px; /*font-size is 25px*/
   position: relative; /*posting method used for a linkes is relative*/ 
   top: -40px; /*aligen to top*/
-  margin-right: 15px;
+  margin-right: 15px; /*space outside right the text is 15px*/
   font-weight: normal;
 } 
 .pricing .plans .plan .head span::after {
