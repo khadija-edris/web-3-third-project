@@ -443,7 +443,7 @@ header nav .form i {
 }
 .video::before {
   content: ""; /*content include with thinges you put*/
-  position: absolute;
+  position: absolute; 
   left: 0;
   top: 0;
   width: 100%;
