@@ -108,7 +108,7 @@ header .container::after {
   height: 1px; /*hight is 1px*/
   background-color: #a2a2a2; /*ackgroung coloring*/
   bottom: 0; /*there is not aligen to bottom */
-  width: calc(100% - 30px);
+  width: calc(100% - 30px); /* width calculate */
   left: 15px;
 }
 header .logo img {
