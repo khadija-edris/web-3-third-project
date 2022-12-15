@@ -359,7 +359,7 @@ header nav .form i {
 .design .text ul li::before {
   font-family: "Font Awesome 5 Free"; /*use to text fonts*/
   content: "\f108"; /*content include with thinges you put*/
-  font-weight: 900;
+  font-weight: 900; /*used to font-weight*/
   margin-right: 20px;
   position: relative;
   top: 1px;
