@@ -549,7 +549,7 @@ header nav .form i {
   justify-content: center; /*the position of item in center*/
   align-items: center; /*the position of item in center*/
   border-radius: 50%; /*border-radius is 50%*/
-  margin: 0 auto 30px;
+  margin: 0 auto 30px; /*space outside the text*/
 }
 .stats .container .box .number {
   font-size: 50px;
