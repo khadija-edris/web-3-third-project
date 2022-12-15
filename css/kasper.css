@@ -223,7 +223,7 @@ header nav .form i {
   font-size: 32px; /*font-size is 32px */
   font-weight: normal; /*font-weight is normal*/
   line-height: 1.5; /*line-height is 1.5*/
-  margin-bottom: 20px;
+  margin-bottom: 20px; /*space outside bottom the text is 20px*/
 }
 .landing .text .content p {
   font-size: 14px;
