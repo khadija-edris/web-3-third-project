@@ -439,7 +439,7 @@ header nav .form i {
 /* End Portfolio */
 /* Start Video */
 .video {
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
 }
 .video::before {
   content: "";
