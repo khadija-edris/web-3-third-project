@@ -464,7 +464,7 @@ header nav .form i {
   text-align: center; /*the position of item in center*/
 }
 .video .text h2 {
-  margin: 0 0 30px;
+  margin: 0 0 30px; /*space outside the text*/
   text-transform: uppercase;
   font-weight: normal;
 }
