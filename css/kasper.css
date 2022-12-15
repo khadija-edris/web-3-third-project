@@ -391,7 +391,7 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/
 }
 .portfolio .imgs-container .box:hover .caption {
-  bottom: 0;
+  bottom: 0; /*aligen to bottom*/
 }
 .portfolio .imgs-container .box:hover img {
   transform: rotate(3deg) scale(1.1);
