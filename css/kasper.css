@@ -414,7 +414,7 @@ header nav .form i {
   position: absolute; /*abosting method used for a linkes is absolute*/
   left: 0; /*aligen to left*/
   padding: 20px; /*space inside the border*/
-  background-color: white;
+  background-color: white; 
   width: 100%;
   transition: 0.3s;
   bottom: -100%;
