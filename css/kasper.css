@@ -588,7 +588,7 @@ header nav .form i {
   margin-bottom: 60px; /*space outside bottom the text is 60px*/
 }
 .our-skills .testimonials .content {
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   align-items: center;
   margin-bottom: 30px;
 }
