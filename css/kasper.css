@@ -432,7 +432,7 @@ header nav .form i {
   padding: 15px 20px; /*space inside the border*/
   display: block; /*specifies the display is block*/
   width: fit-content; 
-  margin: 30px auto;
+  margin: 30px auto; /*space outside the text */
   text-decoration: none;
   text-transform: uppercase;
 }
