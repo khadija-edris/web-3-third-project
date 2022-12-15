@@ -305,7 +305,7 @@ header nav .form i {
 }
 /* End Services */ 
 /* Start Design */ 
-.design {
+.design { 
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   height: 600px;
@@ -315,7 +315,7 @@ header nav .form i {
   display: flex;
   align-items: center;
   overflow: hidden;
-}
+} 
 .design::before {
   content: "";
   position: absolute;
