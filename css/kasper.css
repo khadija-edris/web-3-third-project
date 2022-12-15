@@ -546,7 +546,7 @@ header nav .form i {
   height: 40px; /*height is 40%*/
   display: flex; /*specifies the display is flex*/
   background-color: black; /*background-coloring*/
-  justify-content: center;
+  justify-content: center; 
   align-items: center;
   border-radius: 50%;
   margin: 0 auto 30px;
