@@ -237,7 +237,7 @@ header nav .form i {
 }
 @media (max-width: 767px) {
   .landing .change-background {
-    display: none;
+    display: none; /*specifies the display is none*/
   }
 }
 .landing .fa-angle-left {
