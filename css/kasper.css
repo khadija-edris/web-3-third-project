@@ -482,7 +482,7 @@ header nav .form i {
 /* Start About */
 .about {
   padding-top: var(--section-padding); /*space top inside the border*/
-  overflow: hidden;
+  overflow: hidden; /*The overflow is clipped, and the rest of the content will be invisible*/
   text-align: center;
 }
 .about img {
