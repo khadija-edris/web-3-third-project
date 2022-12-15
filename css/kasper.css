@@ -542,7 +542,7 @@ header nav .form i {
   }
 }
 .stats .container .box i {
-  width: 40px;
+  width: 40px; /*width is 40%*/
   height: 40px;
   display: flex;
   background-color: black;
