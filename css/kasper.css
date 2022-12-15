@@ -730,7 +730,7 @@ header nav .form i {
   font-weight: bold; /*font-weight is bold*/
 } 
 .pricing .plans .plan .head span::before { 
-  content: "$";
+  content: "$"; /*content include with thinges you put*/
   font-size: 25px;
   position: relative;
   top: -40px;
