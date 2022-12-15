@@ -715,11 +715,11 @@ header nav .form i {
   background-color: #fcfcfc; 
   text-align: center; /*the position of item in center*/
 } 
-.pricing .plans .plan .head {
+.pricing .plans .plan .head { 
   padding: 40px 20px;
   border-top: 1px solid var(--main-color);
   border-bottom: 1px solid var(--main-color);
-}
+} 
 .pricing .plans .plan .head h3 {
   font-weight: normal;
   margin-bottom: 20px;
