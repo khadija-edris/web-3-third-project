@@ -557,7 +557,7 @@ header nav .form i {
   margin: 0 0 20px; /*space outside the text*/
 }
 .stats .container .box p {
-  font-size: 14px;
+  font-size: 14px; /*font-size is 14px*/
 }
 /* End Stats */
 /* Start Skills */
