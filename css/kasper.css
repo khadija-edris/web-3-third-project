@@ -522,7 +522,7 @@ header nav .form i {
   flex-wrap: wrap; /*the flexible length on flexible items*/
 }
 .stats .container .box {
-  color: white;
+  color: white; /*color word*/
   padding: 50px;
   background-color: var(--transparent-color);
 }
