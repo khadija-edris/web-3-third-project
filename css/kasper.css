@@ -696,7 +696,7 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/
 }
 .quote q {
-  font-size: 30px;
+  font-size: 30px; 
   margin-bottom: 20px;
   display: block;
 }
