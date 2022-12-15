@@ -288,7 +288,7 @@ header nav .form i {
   .services .srv-box {
     display: flex; /*specifies the display is flex*/
     flex-direction: column; /*flex-direction is column*/
-    text-align: center;
+    text-align: center; /*the position of item in center*/
     margin-bottom: 40px;
   }
   .services .srv-box i {
