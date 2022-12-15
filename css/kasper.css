@@ -420,7 +420,7 @@ header nav .form i {
   bottom: -100%; /*aligen to bottom*/
 }
 .portfolio .imgs-container .box .caption h4 {
-  font-weight: normal;
+  font-weight: normal; /*font-weight is normal*/
   margin-bottom: 10px;
 }
 .portfolio .imgs-container .box .caption p {
