@@ -793,7 +793,7 @@ header nav .form i {
   color: white; 
 } 
 .subscribe::before { 
-  content: "";
+  content: ""; /*content include with thinges you put*/
   position: absolute;
   left: 0;
   top: 0;
