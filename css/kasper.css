@@ -241,7 +241,7 @@ header nav .form i {
   }
 }
 .landing .fa-angle-left {
-  left: 30px;
+  left: 30px; /*aligen to left by 30px*/
 }
 .landing .fa-angle-right {
   right: 30px;
