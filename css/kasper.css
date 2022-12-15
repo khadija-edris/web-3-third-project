@@ -332,7 +332,7 @@ header nav .form i {
   flex: 1; /*the flexible length on flexible items*/
 } 
 .design .image {
-  text-align: center;
+  text-align: center; /*the position of item in center*/
 }
 @media (max-width: 767px) {
   .design .image {
