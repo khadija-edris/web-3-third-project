@@ -758,7 +758,7 @@ header nav .form i {
   position: absolute; /*abosting method used for a linkes is absolute*/
   left: 50%; /*aligen to left*/
   transform: translateX(-50%); /*the position move to left*/
-  bottom: 0;
+  bottom: 0; /*aligen to bottom*/
 } 
 .pricing .plans .plan .foot a {
   display: block;
