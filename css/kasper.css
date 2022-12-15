@@ -279,7 +279,7 @@ header nav .form i {
   }
 }
 .services .srv-box {
-  display: flex;
+  display: flex; /*specifies the display is flex*/
 }
 .services .srv-box i {
   margin-right: 50px;
