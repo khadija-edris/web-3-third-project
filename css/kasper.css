@@ -474,7 +474,7 @@ header nav .form i {
 .video .text button {
   background-color: black; /*background-coloring*/
   color: white; /*color word*/
-  padding: 10px 20px;
+  padding: 10px 20px; /*space inside the border*/
   border: none;
   text-transform: uppercase;
 }
