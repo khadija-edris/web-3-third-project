@@ -81,7 +81,7 @@ ul {
   background-color: white;  /* backgroung coloring is white */
 }
 .main-heading p {
-  width: 550px;
+  width: 550px; /* width = 550px */
   margin: 0 auto 100px;
   max-width: 100%;
   line-height: 2;
