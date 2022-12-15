@@ -585,7 +585,7 @@ header nav .form i {
   color: #777; /*color word*/
   line-height: 2; /*line-height: 2*/
   text-align: center; /*the position of item in center*/
-  margin-bottom: 60px;
+  margin-bottom: 60px; /*space outside bottom the text is 60px*/
 }
 .our-skills .testimonials .content {
   display: flex;
