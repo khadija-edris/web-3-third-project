@@ -198,7 +198,7 @@ header nav .form i {
 }
 .landing .text {
   position: absolute; /*posting method used for a linkes is absolute*/
-  left: 0;
+  left: 0; /* aligen to left */
   top: 50%;
   transform: translateY(-50%);
   width: 50%;
