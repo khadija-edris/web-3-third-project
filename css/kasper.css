@@ -216,7 +216,7 @@ header nav .form i {
     width: 100%; /* width is 100%*/
   }
   .landing .text .content {
-    max-width: 100%;
+    max-width: 100%; /*maximum width is 100%*/
   }
 }
 .landing .text .content h2 {
