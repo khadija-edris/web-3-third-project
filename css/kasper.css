@@ -697,7 +697,7 @@ header nav .form i {
 }
 .quote q {
   font-size: 30px; 
-  margin-bottom: 20px;
+  margin-bottom: 20px; /*space outside bottom the text is 20px*/
   display: block;
 }
 /* End Quote */
