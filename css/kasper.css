@@ -584,7 +584,7 @@ header nav .form i {
 .our-skills .container > div > p {
   color: #777; /*color word*/
   line-height: 2; /*line-height: 2*/
-  text-align: center;
+  text-align: center; /*the position of item in center*/
   margin-bottom: 60px;
 }
 .our-skills .testimonials .content {
