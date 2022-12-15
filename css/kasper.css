@@ -784,14 +784,14 @@ header nav .form i {
 } 
 /* End Pricing */ 
 /* Start Subscribe */ 
-.subscribe {
+.subscribe { 
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   background-image: url("../images/OIP\ \(10\).jpg");
   background-size: cover;
   position: relative;
   color: white;
-}
+} 
 .subscribe::before {
   content: "";
   position: absolute;
