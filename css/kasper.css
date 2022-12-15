@@ -412,7 +412,7 @@ header nav .form i {
 }
 .portfolio .imgs-container .box .caption {
   position: absolute; /*abosting method used for a linkes is absolute*/
-  left: 0;
+  left: 0; /*aligen to left*/
   padding: 20px;
   background-color: white;
   width: 100%;
