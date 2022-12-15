@@ -227,7 +227,7 @@ header nav .form i {
 }
 .landing .text .content p {
   font-size: 14px; /*font-size is 14px*/
-  line-height: 2;
+  line-height: 2; /*line-height is 2*/
 }
 .landing .change-background {
   position: absolute;
