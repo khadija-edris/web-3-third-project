@@ -226,7 +226,7 @@ header nav .form i {
   margin-bottom: 20px; /*space outside bottom the text is 20px*/
 }
 .landing .text .content p {
-  font-size: 14px;
+  font-size: 14px; /*font-size is 14px*/
   line-height: 2;
 }
 .landing .change-background {
