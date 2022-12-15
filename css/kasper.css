@@ -472,7 +472,7 @@ header nav .form i {
   margin-bottom: 30px; /*space outside bottom the text is 30px*/
 }
 .video .text button {
-  background-color: black;
+  background-color: black; /*background-coloring*/
   color: white;
   padding: 10px 20px;
   border: none;
