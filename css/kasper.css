@@ -676,7 +676,7 @@ header nav .form i {
 /* Start Quote */
 .quote {
   padding-top: var(--section-padding); /*space top inside the border*/
-  padding-bottom: var(--section-padding);
+  padding-bottom: var(--section-padding); /*space bottom inside the border*/
   background-image: url("../images/OIP\ \(9\).jpg");
   background-size: cover;
   position: relative;
