@@ -624,7 +624,7 @@ header nav .form i {
 }
 .our-skills .testimonials .bullets li {
   width: 14px; /*width = 14 px */
-  height: 14px;
+  height: 14px; /*height = 14 px*/
   border: 1px solid #aaa;
   border-radius: 50%;
   margin-right: 10px;
