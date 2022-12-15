@@ -312,7 +312,7 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/
   background-image: url("../images/photo.jpg"); /*background-image*/
   background-size: cover; /*background-size: cover*/
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   align-items: center;
   overflow: hidden;
 } 
