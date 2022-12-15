@@ -768,11 +768,11 @@ header nav .form i {
   width: fit-content; /*width is fit-content*/
   margin: 30px auto; /*space outside the text*/
 } 
-.pricing .contact-text {
+.pricing .contact-text { 
   text-align: center;
   margin: 50px auto 20px;
   font-size: 20px;
-}
+} 
 .pricing .contact-link {
   display: block;
   width: fit-content;
