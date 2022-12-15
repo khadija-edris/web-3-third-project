@@ -757,7 +757,7 @@ header nav .form i {
   background-color: var(--main-color); /*background-color*/
   position: absolute; /*abosting method used for a linkes is absolute*/
   left: 50%; /*aligen to left*/
-  transform: translateX(-50%);
+  transform: translateX(-50%); /*the position move to left*/
   bottom: 0;
 } 
 .pricing .plans .plan .foot a {
