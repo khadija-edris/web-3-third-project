@@ -346,7 +346,7 @@ header nav .form i {
 .design .text {
   color: white; 
   padding: 50px; /*space inside the border*/
-  background-color: var(--transparent-color);
+  background-color: var(--transparent-color); 
 }
 .design .text h2 {
   font-weight: normal;
