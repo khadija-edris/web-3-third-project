@@ -382,7 +382,7 @@ header nav .form i {
   color: white; /*word color*/
 }
 .portfolio .imgs-container {
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   flex-wrap: wrap;
   margin-top: 60px;
 }
