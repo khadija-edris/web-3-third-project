@@ -115,7 +115,7 @@ header .logo img {
   height: 40px; /*the hight is 40px*/
 }
 header nav {
-  flex: 1;
+  flex: 1; /*the flexible length on flexible items*/
   display: flex;
   align-items: center;
   justify-content: flex-end;
