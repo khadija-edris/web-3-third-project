@@ -775,7 +775,7 @@ header nav .form i {
 } 
 .pricing .contact-link { 
   display: block; /*specifies the display is block*/
-  width: fit-content;
+  width: fit-content; /*width is fit-content*/
   margin: 20px auto;
   background-color: var(--main-color);
   color: white;
