@@ -599,7 +599,7 @@ header nav .form i {
 }
 @media (max-width: 767px) {
   .our-skills .testimonials .content {
-    flex-direction: column;
+    flex-direction: column; /*flex-direction is column*/
     text-align: center;
   }
   .our-skills .testimonials .content img {
