@@ -782,8 +782,8 @@ header nav .form i {
   padding: 15px 30px; /*space inside the border*/
   text-decoration: none; /*the style of text*/
 } 
-/* End Pricing */
-/* Start Subscribe */
+/* End Pricing */ 
+/* Start Subscribe */ 
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
