@@ -634,7 +634,7 @@ header nav .form i {
   border-color: var(--main-color); 
 }
 .our-skills .skills .prog-holder {
-  margin-bottom: 40px;
+  margin-bottom: 40px; /*space outside bottom the text is 50px*/
 }
 .our-skills .skills .prog-holder h4 {
   margin-bottom: 15px;
