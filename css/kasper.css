@@ -167,7 +167,7 @@ header nav ul li a:hover {
 header nav .form {
   width: 40px; /*width is 40px*/
   height: 30px; /*height is 30px*/
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   margin-left: 30px;
   border-left: 1px solid white;
 }
