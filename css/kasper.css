@@ -618,7 +618,7 @@ header nav .form i {
 }
 .our-skills .testimonials .bullets {
   display: flex; /*specifies the display is flex*/
-  justify-content: center;
+  justify-content: center; /*the position of item in center*/
   margin-top: 50px;
   margin-bottom: 50px;
 }
