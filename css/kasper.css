@@ -769,7 +769,7 @@ header nav .form i {
   margin: 30px auto; /*space outside the text*/
 } 
 .pricing .contact-text { 
-  text-align: center;
+  text-align: center; /*the position of item in center*/
   margin: 50px auto 20px;
   font-size: 20px;
 } 
