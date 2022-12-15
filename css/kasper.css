@@ -712,7 +712,7 @@ header nav .form i {
   gap: 30px; /*gap: 30px*/
 } 
 .pricing .plans .plan { 
-  background-color: #fcfcfc;
+  background-color: #fcfcfc; 
   text-align: center;
 } 
 .pricing .plans .plan .head {
