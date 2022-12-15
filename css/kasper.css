@@ -562,7 +562,7 @@ header nav .form i {
 /* End Stats */
 /* Start Skills */
 .our-skills { 
-  padding-top: var(--section-padding);
+  padding-top: var(--section-padding); /*space top inside the border*/
   padding-bottom: var(--section-padding);
 } 
 .our-skills .container {
