@@ -107,7 +107,7 @@ header .container::after {
   position: absolute; /*posting method used for a linkes is absolute*/
   height: 1px; /*hight is 1px*/
   background-color: #a2a2a2; /*ackgroung coloring*/
-  bottom: 0;
+  bottom: 0; /*there is not aligen to bottom */
   width: calc(100% - 30px);
   left: 15px;
 }
