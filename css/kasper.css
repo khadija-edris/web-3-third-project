@@ -146,7 +146,7 @@ header nav ul {
     background-color: rgb(0 0 0 / 50%); /*background coloring*/
   }
   header nav ul li a {
-    padding: 15px !important;
+    padding: 15px !important; /*space inside the border*/
   }
 }
 header nav ul li a {
