@@ -716,7 +716,7 @@ header nav .form i {
   text-align: center; /*the position of item in center*/
 } 
 .pricing .plans .plan .head { 
-  padding: 40px 20px;
+  padding: 40px 20px; /*space inside the border*/
   border-top: 1px solid var(--main-color);
   border-bottom: 1px solid var(--main-color);
 } 
