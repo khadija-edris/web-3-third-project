@@ -310,7 +310,7 @@ header nav .form i {
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
   height: 600px; /*height is 600px*/
   position: relative; /*posting method used for a linkes is relative*/
-  background-image: url("../images/photo.jpg");
+  background-image: url("../images/photo.jpg"); /*background-image*/
   background-size: cover;
   display: flex;
   align-items: center;
