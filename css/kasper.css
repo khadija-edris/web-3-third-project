@@ -717,7 +717,7 @@ header nav .form i {
 } 
 .pricing .plans .plan .head { 
   padding: 40px 20px; /*space inside the border*/
-  border-top: 1px solid var(--main-color);
+  border-top: 1px solid var(--main-color); /*border-top is 1px solid*/
   border-bottom: 1px solid var(--main-color);
 } 
 .pricing .plans .plan .head h3 {
