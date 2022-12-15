@@ -371,7 +371,7 @@ header nav .form i {
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
 }
 .portfolio .shuffle {
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   justify-content: center;
 }
 .portfolio .shuffle li {
