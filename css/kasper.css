@@ -459,7 +459,7 @@ header nav .form i {
   top: 50%; /*aligen to top*/
   transform: translateY(-50%); /*the position move to left*/
   padding: 50px; /*space inside the border*/
-  background-color: var(--transparent-color);
+  background-color: var(--transparent-color); /*background-coloring*/
   color: white;
   text-align: center;
 }
