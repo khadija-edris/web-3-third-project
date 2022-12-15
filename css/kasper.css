@@ -433,7 +433,7 @@ header nav .form i {
   display: block; /*specifies the display is block*/
   width: fit-content; 
   margin: 30px auto; /*space outside the text */
-  text-decoration: none;
+  text-decoration: none; /*the style of text*/
   text-transform: uppercase;
 }
 /* End Portfolio */
