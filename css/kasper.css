@@ -340,7 +340,7 @@ header nav .form i {
   }
 }
 .design .image img {
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   bottom: -150px;
 }
 .design .text {
