@@ -126,7 +126,7 @@ header nav .toggle-menu {
 }
 @media (min-width: 768px) {
   header nav .toggle-menu {
-    display: none;
+    display: none; /*specifies the display is none */
   }
 }
 header nav ul {
