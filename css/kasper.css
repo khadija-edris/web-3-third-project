@@ -481,7 +481,7 @@ header nav .form i {
 /* End Video */
 /* Start About */
 .about {
-  padding-top: var(--section-padding);
+  padding-top: var(--section-padding); /*space top inside the border*/
   overflow: hidden;
   text-align: center;
 }
