@@ -797,7 +797,7 @@ header nav .form i {
   position: absolute; /*abosting method used for a linkes is absolute*/
   left: 0; /*aligen to left*/
   top: 0; /*aligen to top*/
-  width: 100%;
+  width: 100%; /*width is 100%*/
   height: 100%;
   background-color: rgb(0 0 0 / 50%);
 } 
