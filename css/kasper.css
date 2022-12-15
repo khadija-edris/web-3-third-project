@@ -751,7 +751,7 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/
 } 
 .pricing .plans .plan ul li:not(:last-child)::after { 
-  content: "";
+  content: ""; /*content include with thinges you put*/
   width: 140px;
   height: 1px;
   background-color: var(--main-color);
