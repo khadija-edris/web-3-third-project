@@ -612,7 +612,7 @@ header nav .form i {
 }
 .our-skills .testimonials .text p {
   color: #777; /*word color*/
-  text-align: right;
+  text-align: right; /*the position of item in right*/
   font-size: 14px;
   margin-bottom: 10px;
 }
