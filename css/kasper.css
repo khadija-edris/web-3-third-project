@@ -623,7 +623,7 @@ header nav .form i {
   margin-bottom: 50px; /*space outside bottom the text is 50px*/
 }
 .our-skills .testimonials .bullets li {
-  width: 14px;
+  width: 14px; /*width = 14 px */
   height: 14px;
   border: 1px solid #aaa;
   border-radius: 50%;
