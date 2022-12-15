@@ -112,7 +112,7 @@ header .container::after {
   left: 15px; /*aligen to left is 15px*/
 }
 header .logo img {
-  height: 40px;
+  height: 40px; /*the hight is 40px*/
 }
 header nav {
   flex: 1;
