@@ -589,7 +589,7 @@ header nav .form i {
 }
 .our-skills .testimonials .content {
   display: flex; /*specifies the display is flex*/
-  align-items: center;
+  align-items: center; /*the position of item in center*/
   margin-bottom: 30px;
 }
 .our-skills .testimonials .content img {
