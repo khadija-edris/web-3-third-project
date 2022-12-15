@@ -524,7 +524,7 @@ header nav .form i {
 .stats .container .box {
   color: white; /*color word*/
   padding: 50px; /*space inside the border*/
-  background-color: var(--transparent-color);
+  background-color: var(--transparent-color); /*background-coloring*/
 }
 @media (max-width: 767px) {
   .stats .container .box {
