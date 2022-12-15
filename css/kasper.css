@@ -251,7 +251,7 @@ header nav .form i {
   left: 50%; /*aligen to left by 50%*/
   transform: translateX(-50%); /*the position move to left*/
   bottom: 30px; /*aligen to bottom */
-  display: flex;
+  display: flex; /*specifies the display is flex*/
 }
 .landing .bullets li {
   width: 20px;
