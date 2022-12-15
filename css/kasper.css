@@ -109,7 +109,7 @@ header .container::after {
   background-color: #a2a2a2; /*ackgroung coloring*/
   bottom: 0; /*there is not aligen to bottom */
   width: calc(100% - 30px); /* width calculate */
-  left: 15px;
+  left: 15px; /*aligen to left is 15px*/
 }
 header .logo img {
   height: 40px;
