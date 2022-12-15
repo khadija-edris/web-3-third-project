@@ -755,7 +755,7 @@ header nav .form i {
   width: 140px; /*width is 140px*/
   height: 1px; /*height is 1px*/
   background-color: var(--main-color); /*background-color*/
-  position: absolute;
+  position: absolute; /*abosting method used for a linkes is absolute*/
   left: 50%;
   transform: translateX(-50%);
   bottom: 0;
