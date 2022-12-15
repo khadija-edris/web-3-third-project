@@ -416,7 +416,7 @@ header nav .form i {
   padding: 20px; /*space inside the border*/
   background-color: white; 
   width: 100%; /*width is 100%*/
-  transition: 0.3s;
+  transition: 0.3s; /*A slight effect period 3s*/
   bottom: -100%;
 }
 .portfolio .imgs-container .box .caption h4 {
