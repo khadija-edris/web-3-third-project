@@ -614,7 +614,7 @@ header nav .form i {
   color: #777; /*word color*/
   text-align: right; /*the position of item in right*/
   font-size: 14px; /*font-size is 14px*/
-  margin-bottom: 10px;
+  margin-bottom: 10px; /*space outside bottom the text is 10px*/
 }
 .our-skills .testimonials .bullets {
   display: flex;
