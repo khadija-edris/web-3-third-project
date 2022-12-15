@@ -518,7 +518,7 @@ header nav .form i {
 }
 .stats .container {
   position: relative; /*posting method used for a linkes is relative*/
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   flex-wrap: wrap;
 }
 .stats .container .box {
