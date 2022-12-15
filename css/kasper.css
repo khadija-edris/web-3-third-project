@@ -300,7 +300,7 @@ header nav .form i {
   color: var(--main-color); 
 }
 .services .srv-box p {
-  line-height: 2;
+  line-height: 2; /*line-height is 2*/
   color: #777;
 }
 /* End Services */
