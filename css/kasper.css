@@ -504,7 +504,7 @@ header nav .form i {
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
   text-align: center; /*the position of item in center*/
   background-image: url("../images/OIP\ \(8\).jpg"); /*put background-image*/
-  background-size: cover;
+  background-size: cover; /*background-size: cover*/
   position: relative;
 }
 .stats::before {
