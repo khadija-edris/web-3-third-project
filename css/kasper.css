@@ -444,7 +444,7 @@ header nav .form i {
 .video::before {
   content: ""; /*content include with thinges you put*/
   position: absolute; 
-  left: 0;
+  left: 0; 
   top: 0;
   width: 100%;
   height: 100%;
