@@ -189,7 +189,7 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/
 }
 .landing .overlay {
-  position: absolute;
+  position: absolute; /*posting method used for a linkes is absolute*/
   left: 0;
   top: 0;
   width: 100%;
