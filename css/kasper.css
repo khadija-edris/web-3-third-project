@@ -130,7 +130,7 @@ header nav .toggle-menu {
   }
 }
 header nav ul { 
-  display: flex;
+  display: flex; /*specifies the display is flex */
 } 
 @media (max-width: 767px) {
   header nav ul {
