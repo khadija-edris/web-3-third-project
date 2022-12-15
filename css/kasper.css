@@ -669,7 +669,7 @@ header nav .form i {
   border-style: solid; /*border-style is solid*/
   border-width: 8px; /*border-width  is 8px*/
   border-color: black transparent transparent; 
-  right: -8px;
+  right: -8px; 
   top: -15px;
 }
 /* End Skills */
