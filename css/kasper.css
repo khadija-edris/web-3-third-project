@@ -548,7 +548,7 @@ header nav .form i {
   background-color: black; /*background-coloring*/
   justify-content: center; /*the position of item in center*/
   align-items: center; /*the position of item in center*/
-  border-radius: 50%;
+  border-radius: 50%; /*border-radius is 50%*/
   margin: 0 auto 30px;
 }
 .stats .container .box .number {
