@@ -731,7 +731,7 @@ header nav .form i {
 } 
 .pricing .plans .plan .head span::before { 
   content: "$"; /*content include with thinges you put*/
-  font-size: 25px;
+  font-size: 25px; /*font-size is 25px*/
   position: relative;
   top: -40px;
   margin-right: 15px;
