@@ -741,7 +741,7 @@ header nav .form i {
   content: "/Mo"; /*content include with thinges you put*/
   font-size: 20px; /*font-size is 25px*/
   position: relative; /*posting method used for a linkes is relative*/
-  right: -15px;
+  right: -15px; /*aligen to right*/
 } 
 .pricing .plans .plan ul {
   border-bottom: 1px solid var(--main-color);
