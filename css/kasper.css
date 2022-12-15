@@ -129,9 +129,9 @@ header nav .toggle-menu {
     display: none; /*specifies the display is none */
   }
 }
-header nav ul {
+header nav ul { 
   display: flex;
-}
+} 
 @media (max-width: 767px) {
   header nav ul {
     display: none;
