@@ -519,7 +519,7 @@ header nav .form i {
 .stats .container {
   position: relative; /*posting method used for a linkes is relative*/
   display: flex; /*specifies the display is flex*/
-  flex-wrap: wrap;
+  flex-wrap: wrap; /*the flexible length on flexible items*/
 }
 .stats .container .box {
   color: white;
