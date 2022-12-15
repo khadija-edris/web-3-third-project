@@ -85,7 +85,7 @@ ul {
   margin: 0 auto 100px; /* space outside the text */
   max-width: 100%; /* the max of width = 100% */
   line-height: 2; /* line-hight is 2 */
-  color: #777;
+  color: #777; /* color word */
 }
 /* End Components */
 /* Start Header */
