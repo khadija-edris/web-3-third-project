@@ -544,7 +544,7 @@ header nav .form i {
 .stats .container .box i {
   width: 40px; /*width is 40%*/
   height: 40px; /*height is 40%*/
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   background-color: black;
   justify-content: center;
   align-items: center;
