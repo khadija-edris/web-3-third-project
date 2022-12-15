@@ -327,7 +327,7 @@ header nav .form i {
 }
 .design .image, 
 .design .text { 
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   z-index: 2;
   flex: 1;
 } 
