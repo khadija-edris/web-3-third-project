@@ -354,7 +354,7 @@ header nav .form i {
   margin-bottom: 40px; /*space outside bottom the text is 40px*/
 }
 .design .text ul li {
-  padding: 15px 0;
+  padding: 15px 0; /*space inside the border*/
 }
 .design .text ul li::before {
   font-family: "Font Awesome 5 Free";
