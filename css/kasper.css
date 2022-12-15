@@ -190,7 +190,7 @@ header nav .form i {
 }
 .landing .overlay {
   position: absolute; /*posting method used for a linkes is absolute*/
-  left: 0;
+  left: 0; /*left is 0*/
   top: 0;
   width: 100%;
   height: 100%;
