@@ -318,7 +318,7 @@ header nav .form i {
 } 
 .design::before {
   content: ""; /*content include with thinges you put*/
-  position: absolute;
+  position: absolute; /*posting method used for a linkes is absolute*/
   left: 0;
   top: 0;
   width: 100%;
