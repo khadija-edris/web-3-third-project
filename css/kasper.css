@@ -567,7 +567,7 @@ header nav .form i {
 } 
 .our-skills .container {
   display: flex; /*specifies the display is flex*/
-  justify-content: space-between;
+  justify-content: space-between; /*the position of item in between space*/
   flex-wrap: wrap;
 }
 @media (min-width: 992px) {
