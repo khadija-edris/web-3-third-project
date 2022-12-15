@@ -329,7 +329,7 @@ header nav .form i {
 .design .text { 
   position: relative; /*posting method used for a linkes is relative*/
   z-index: 2; /*used to make links above of image*/
-  flex: 1;
+  flex: 1; /*the flexible length on flexible items*/
 } 
 .design .image {
   text-align: center;
