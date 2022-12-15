@@ -457,7 +457,7 @@ header nav .form i {
   width: 100%;
   position: absolute; /*abosting method used for a linkes is absolute*/
   top: 50%; /*aligen to top*/
-  transform: translateY(-50%);
+  transform: translateY(-50%); /*the position move to left*/
   padding: 50px;
   background-color: var(--transparent-color);
   color: white;
