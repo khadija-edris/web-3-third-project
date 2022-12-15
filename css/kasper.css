@@ -766,7 +766,7 @@ header nav .form i {
   text-decoration: none; /*the style of text*/
   border: 1px solid var(--main-color); /*border 1px is solid*/
   width: fit-content; /*width is fit-content*/
-  margin: 30px auto;
+  margin: 30px auto; /*space outside the text*/
 } 
 .pricing .contact-text {
   text-align: center;
