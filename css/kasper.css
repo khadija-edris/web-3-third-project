@@ -486,7 +486,7 @@ header nav .form i {
   text-align: center; /*the position of item in center*/
 }
 .about img {
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   bottom: -120px;
   margin-top: -120px;
   max-width: 100%;
