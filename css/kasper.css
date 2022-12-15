@@ -258,7 +258,7 @@ header nav .form i {
   height: 20px; /*height is 20px*/
   border: 1px solid white; /*border 1px is solid*/
   border-radius: 50%; /*border-radius is 50%*/
-  margin-right: 10px;
+  margin-right: 10px; /*space outside right the text is 10px*/
 }
 .landing .bullets li.active {
   background-color: var(--main-color);
