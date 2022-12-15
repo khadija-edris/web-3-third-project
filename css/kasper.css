@@ -465,7 +465,7 @@ header nav .form i {
 }
 .video .text h2 {
   margin: 0 0 30px; /*space outside the text*/
-  text-transform: uppercase;
+  text-transform: uppercase; /*text is in uppercas*/
   font-weight: normal;
 }
 .video .text p {
