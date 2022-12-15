@@ -411,7 +411,7 @@ header nav .form i {
   transition: 0.3s; /*A slight effect period 3s*/
 }
 .portfolio .imgs-container .box .caption {
-  position: absolute;
+  position: absolute; /*abosting method used for a linkes is absolute*/
   left: 0;
   padding: 20px;
   background-color: white;
