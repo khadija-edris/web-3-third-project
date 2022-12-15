@@ -308,7 +308,7 @@ header nav .form i {
 .design { 
   padding-top: var(--section-padding); /*space top inside the border*/
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
-  height: 600px;
+  height: 600px; /*height is 600px*/
   position: relative;
   background-image: url("../images/photo.jpg");
   background-size: cover;
