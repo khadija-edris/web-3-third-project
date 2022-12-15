@@ -778,7 +778,7 @@ header nav .form i {
   width: fit-content; /*width is fit-content*/
   margin: 20px auto; /*space outside the text*/
   background-color: var(--main-color); 
-  color: white;
+  color: white; 
   padding: 15px 30px;
   text-decoration: none;
 } 
