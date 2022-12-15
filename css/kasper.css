@@ -667,7 +667,7 @@ header nav .form i {
   content: ""; /*content include with thinges you put*/
   position: absolute; /*abosting method used for a linkes is absolute*/
   border-style: solid; /*border-style is solid*/
-  border-width: 8px;
+  border-width: 8px; /*border-width  is 8px*/
   border-color: black transparent transparent;
   right: -8px;
   top: -15px;
