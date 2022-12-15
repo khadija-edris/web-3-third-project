@@ -205,7 +205,7 @@ header nav .form i {
   padding: 50px; /*space inside the border*/
   background-color: var(--transparent-color);
   color: white; /*color word */
-  display: flex;
+  display: flex; /*specifies the display is flex */
   justify-content: flex-end;
 }
 .landing .text .content {
