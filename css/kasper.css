@@ -143,7 +143,7 @@ header nav ul {
     top: 100%; /* aligen to top by 100%*/
     left: 0; /*aligen to left*/
     width: 100%; /*width = 100%*/
-    background-color: rgb(0 0 0 / 50%);
+    background-color: rgb(0 0 0 / 50%); /*background coloring*/
   }
   header nav ul li a {
     padding: 15px !important;
