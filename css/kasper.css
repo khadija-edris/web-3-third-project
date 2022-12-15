@@ -500,7 +500,7 @@ header nav .form i {
 /* End About */ 
 /* Start Stats */ 
 .stats {
-  padding-top: var(--section-padding);
+  padding-top: var(--section-padding); /*space top inside the border*/
   padding-bottom: var(--section-padding);
   text-align: center;
   background-image: url("../images/OIP\ \(8\).jpg");
