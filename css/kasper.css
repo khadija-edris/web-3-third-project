@@ -552,7 +552,7 @@ header nav .form i {
   margin: 0 auto 30px; /*space outside the text*/
 }
 .stats .container .box .number {
-  font-size: 50px;
+  font-size: 50px; 
   font-weight: bold;
   margin: 0 0 20px;
 }
