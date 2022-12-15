@@ -267,7 +267,7 @@ header nav .form i {
 /* End Landing */
 /* Start Services */
 .services {
-  padding-top: var(--section-padding);
+  padding-top: var(--section-padding); /*space top inside the border*/
   padding-bottom: var(--section-padding);
 }
 @media (min-width: 768px) {
