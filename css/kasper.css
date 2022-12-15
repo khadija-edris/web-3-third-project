@@ -679,7 +679,7 @@ header nav .form i {
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
   background-image: url("../images/OIP\ \(9\).jpg"); /*background-image*/
   background-size: cover; /*background-size*/
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   text-align: center;
   color: white;
 }
