@@ -341,7 +341,7 @@ header nav .form i {
 }
 .design .image img {
   position: relative; /*posting method used for a linkes is relative*/
-  bottom: -150px;
+  bottom: -150px; /*aligen to bottom*/
 }
 .design .text {
   color: white;
