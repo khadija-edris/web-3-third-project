@@ -720,11 +720,11 @@ header nav .form i {
   border-top: 1px solid var(--main-color); /*border-top is 1px solid*/
   border-bottom: 1px solid var(--main-color); /*border-bottom is 1px solid*/
 } 
-.pricing .plans .plan .head h3 {
+.pricing .plans .plan .head h3 { 
   font-weight: normal;
   margin-bottom: 20px;
   text-transform: uppercase;
-}
+} 
 .pricing .plans .plan .head span {
   font-size: 60px;
   font-weight: bold;
