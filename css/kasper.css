@@ -497,8 +497,8 @@ header nav .form i {
     margin-top: -60px; /*space outside top the text is -60px*/
   }
 }
-/* End About */
-/* Start Stats */
+/* End About */ 
+/* Start Stats */ 
 .stats {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
