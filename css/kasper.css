@@ -779,7 +779,7 @@ header nav .form i {
   margin: 20px auto; /*space outside the text*/
   background-color: var(--main-color); 
   color: white; 
-  padding: 15px 30px;
+  padding: 15px 30px; /*space inside the border*/
   text-decoration: none;
 } 
 /* End Pricing */
