@@ -255,7 +255,7 @@ header nav .form i {
 }
 .landing .bullets li {
   width: 20px; /*width is 20px*/
-  height: 20px;
+  height: 20px; /*height is 20px*/
   border: 1px solid white;
   border-radius: 50%;
   margin-right: 10px;
