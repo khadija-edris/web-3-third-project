@@ -233,7 +233,7 @@ header nav .form i {
   position: absolute; /*posting method used for a linkes is absolute*/
   top: 50%; /* aligen top is 50%*/
   transform: translateY(-50%); /*the position move to left*/
-  color: #ddd;
+  color: #ddd; /*color word*/
 }
 @media (max-width: 767px) {
   .landing .change-background {
