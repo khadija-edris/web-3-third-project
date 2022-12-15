@@ -421,7 +421,7 @@ header nav .form i {
 }
 .portfolio .imgs-container .box .caption h4 {
   font-weight: normal; /*font-weight is normal*/
-  margin-bottom: 10px;
+  margin-bottom: 10px; /*space outside bottom the text is 10px*/
 }
 .portfolio .imgs-container .box .caption p {
   color: var(--main-color);
