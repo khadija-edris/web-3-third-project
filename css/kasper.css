@@ -97,7 +97,7 @@ header {
 }
 header .container {
   display: flex; /* specifies the display is flex */
-  justify-content: space-between;
+  justify-content: space-between; /* position is space between */
   align-items: center;
   position: relative;
   min-height: 97px;
