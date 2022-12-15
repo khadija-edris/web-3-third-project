@@ -570,11 +570,11 @@ header nav .form i {
   justify-content: space-between; /*the position of item in between space*/
   flex-wrap: wrap; /*the flexible length on flexible items*/
 }
-@media (min-width: 992px) {
-  .our-skills .container > div {
+@media (min-width: 992px) { 
+  .our-skills .container > div { 
     flex-basis: 45%;
-  }
-}
+  } 
+} 
 .our-skills .container > div > h3 {
   margin: 0 0 30px;
   font-weight: normal;
