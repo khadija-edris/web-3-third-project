@@ -653,7 +653,7 @@ header nav .form i {
 }
 .our-skills .skills .prog-holder .prog span::before {
   content: attr(data-progress);
-  position: absolute;
+  position: absolute; /*abosting method used for a linkes is absolute*/
   background-color: black;
   color: white;
   top: -40px;
