@@ -700,8 +700,8 @@ header nav .form i {
   margin-bottom: 20px; /*space outside bottom the text is 20px*/
   display: block; /*specifies the display is block*/
 }
-/* End Quote */
-/* Start Pricing */
+/* End Quote */ 
+/* Start Pricing */ 
 .pricing {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
