@@ -121,7 +121,7 @@ header nav {
   justify-content: flex-end; /*position is flex-end*/
 }
 header nav .toggle-menu {
-  color: white;
+  color: white; /* color word is white */
   font-size: 22px;
 }
 @media (min-width: 768px) {
