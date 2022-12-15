@@ -162,7 +162,7 @@ header nav ul li a {
 header nav ul li a.active,
 header nav ul li a:hover {
   color: var(--main-color); /* color word*/
-  border-bottom: 1px solid var(--main-color);
+  border-bottom: 1px solid var(--main-color); /*border bottom 1px is solid*/
 }
 header nav .form {
   width: 40px;
