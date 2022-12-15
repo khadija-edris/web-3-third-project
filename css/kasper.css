@@ -398,7 +398,7 @@ header nav .form i {
 }
 @media (min-width: 768px) {
   .portfolio .imgs-container .box {
-    flex-basis: 50%;
+    flex-basis: 50%; /*the flexible length on flexible items*/
   }
 }
 @media (min-width: 1199px) {
