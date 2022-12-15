@@ -349,7 +349,7 @@ header nav .form i {
   background-color: var(--transparent-color); 
 }
 .design .text h2 {
-  font-weight: normal;
+  font-weight: normal; /*font-weight is normal*/
   text-transform: uppercase;
   margin-bottom: 40px;
 }
