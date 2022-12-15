@@ -313,7 +313,7 @@ header nav .form i {
   background-image: url("../images/photo.jpg"); /*background-image*/
   background-size: cover; /*background-size: cover*/
   display: flex; /*specifies the display is flex*/
-  align-items: center;
+  align-items: center; /*the position of item in center*/
   overflow: hidden;
 } 
 .design::before {
