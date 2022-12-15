@@ -578,7 +578,7 @@ header nav .form i {
 .our-skills .container > div > h3 {
   margin: 0 0 30px; /*space outside the text*/
   font-weight: normal; /*font-weight is normal*/
-  text-align: center;
+  text-align: center; /*the position of item in center*/
   text-transform: uppercase;
 }
 .our-skills .container > div > p {
