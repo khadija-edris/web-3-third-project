@@ -572,7 +572,7 @@ header nav .form i {
 }
 @media (min-width: 992px) { 
   .our-skills .container > div { 
-    flex-basis: 45%;
+    flex-basis: 45%; /*the flexible length on flexible items*/
   } 
 } 
 .our-skills .container > div > h3 {
