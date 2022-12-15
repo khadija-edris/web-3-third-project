@@ -554,7 +554,7 @@ header nav .form i {
 .stats .container .box .number {
   font-size: 50px; 
   font-weight: bold; /*font-weight is bold*/
-  margin: 0 0 20px;
+  margin: 0 0 20px; /*space outside the text*/
 }
 .stats .container .box p {
   font-size: 14px;
