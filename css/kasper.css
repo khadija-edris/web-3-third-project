@@ -350,7 +350,7 @@ header nav .form i {
 }
 .design .text h2 {
   font-weight: normal; /*font-weight is normal*/
-  text-transform: uppercase;
+  text-transform: uppercase; /*text is in uppercas*/
   margin-bottom: 40px;
 }
 .design .text ul li {
