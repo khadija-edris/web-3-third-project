@@ -209,7 +209,7 @@ header nav .form i {
   justify-content: flex-end; /*position is flex-end*/
 }
 .landing .text .content {
-  max-width: 500px;
+  max-width: 500px; /*maximum width is 500px*/
 }
 @media (max-width: 767px) {
   .landing .text {
