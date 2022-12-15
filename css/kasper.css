@@ -681,7 +681,7 @@ header nav .form i {
   background-size: cover; /*background-size*/
   position: relative; /*posting method used for a linkes is relative*/
   text-align: center; /*the position of item in center*/
-  color: white;
+  color: white; /*color word*/
 }
 .quote::before {
   content: "";
