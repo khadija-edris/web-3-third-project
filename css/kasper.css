@@ -415,7 +415,7 @@ header nav .form i {
   left: 0; /*aligen to left*/
   padding: 20px; /*space inside the border*/
   background-color: white; 
-  width: 100%;
+  width: 100%; /*width is 100%*/
   transition: 0.3s;
   bottom: -100%;
 }
