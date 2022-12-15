@@ -134,7 +134,7 @@ header nav ul {
 } 
 @media (max-width: 767px) {
   header nav ul {
-    display: none;
+    display: none; /*specifies the display is none*/
   }
   header nav .toggle-menu:hover + ul {
     display: flex;
