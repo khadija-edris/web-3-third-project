@@ -407,7 +407,7 @@ header nav .form i {
   }
 }
 .portfolio .imgs-container .box img {
-  max-width: 100%;
+  max-width: 100%; /*maximum width is 100%*/
   transition: 0.3s;
 }
 .portfolio .imgs-container .box .caption {
