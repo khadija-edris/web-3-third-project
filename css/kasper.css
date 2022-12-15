@@ -765,7 +765,7 @@ header nav .form i {
   padding: 20px 20px; /*space inside the border*/
   text-decoration: none; /*the style of text*/
   border: 1px solid var(--main-color); /*border 1px is solid*/
-  width: fit-content;
+  width: fit-content; /*width is fit-content*/
   margin: 30px auto;
 } 
 .pricing .contact-text {
