@@ -763,7 +763,7 @@ header nav .form i {
 .pricing .plans .plan .foot a { 
   display: block; /*specifies the display is block*/
   padding: 20px 20px; /*space inside the border*/
-  text-decoration: none;
+  text-decoration: none; /*the style of text*/
   border: 1px solid var(--main-color);
   width: fit-content;
   margin: 30px auto;
