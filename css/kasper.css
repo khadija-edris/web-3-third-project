@@ -186,7 +186,7 @@ header nav .form i {
   background-color: #1f2021; /*background coloring*/
   background-image: url("../images/landing.jpg"); /*background image*/
   background-size: cover; /*background size*/
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
 }
 .landing .overlay {
   position: absolute;
