@@ -244,7 +244,7 @@ header nav .form i {
   left: 30px; /*aligen to left by 30px*/
 }
 .landing .fa-angle-right {
-  right: 30px;
+  right: 30px; /*right to left by 30px*/
 }
 .landing .bullets {
   position: absolute;
