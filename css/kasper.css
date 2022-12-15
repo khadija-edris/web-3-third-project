@@ -311,7 +311,7 @@ header nav .form i {
   height: 600px; /*height is 600px*/
   position: relative; /*posting method used for a linkes is relative*/
   background-image: url("../images/photo.jpg"); /*background-image*/
-  background-size: cover;
+  background-size: cover; /*background-size: cover*/
   display: flex;
   align-items: center;
   overflow: hidden;
