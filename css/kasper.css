@@ -116,7 +116,7 @@ header .logo img {
 }
 header nav {
   flex: 1; /*the flexible length on flexible items*/
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   align-items: center;
   justify-content: flex-end;
 }
