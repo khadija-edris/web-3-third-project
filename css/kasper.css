@@ -378,7 +378,7 @@ header nav .form i {
   padding: 10px;/*space inside the border */
 }
 .portfolio .shuffle li.active {
-  background-color: var(--main-color);
+  background-color: var(--main-color); /*background-coloring*/
   color: white;
 }
 .portfolio .imgs-container {
