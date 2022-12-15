@@ -140,7 +140,7 @@ header nav ul {
     display: flex; /*specifies the display is flex*/
     flex-direction: column; /*flex-direction is column*/
     position: absolute; /*posting method used for a linkes is absolute*/
-    top: 100%;
+    top: 100%; /* aligen to top by 100%*/
     left: 0;
     width: 100%;
     background-color: rgb(0 0 0 / 50%);
