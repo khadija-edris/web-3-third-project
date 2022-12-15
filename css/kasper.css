@@ -92,7 +92,7 @@ ul {
 header {
   position: absolute; /* posting method used for a linkes is absolute */
   left: 0; /* aligen to left is 0 */
-  width: 100%;
+  width: 100%; /* width is 100% */
   z-index: 2;
 }
 header .container {
