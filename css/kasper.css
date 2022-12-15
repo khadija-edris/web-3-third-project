@@ -139,7 +139,7 @@ header nav ul {
   header nav .toggle-menu:hover + ul {
     display: flex; /*specifies the display is flex*/
     flex-direction: column; /*flex-direction is column*/
-    position: absolute;
+    position: absolute; /*posting method used for a linkes is absolute*/
     top: 100%;
     left: 0;
     width: 100%;
