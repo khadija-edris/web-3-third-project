@@ -630,7 +630,7 @@ header nav .form i {
   margin-right: 10px; /*space outside right the text is 10px*/
 }
 .our-skills .testimonials .bullets li.active {
-  background-color: var(--main-color);
+  background-color: var(--main-color); 
   border-color: var(--main-color);
 }
 .our-skills .skills .prog-holder {
