@@ -379,7 +379,7 @@ header nav .form i {
 }
 .portfolio .shuffle li.active {
   background-color: var(--main-color); /*background-coloring*/
-  color: white;
+  color: white; /*word color*/
 }
 .portfolio .imgs-container {
   display: flex;
