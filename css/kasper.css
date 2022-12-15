@@ -655,7 +655,7 @@ header nav .form i {
   content: attr(data-progress);
   position: absolute; /*abosting method used for a linkes is absolute*/
   background-color: black; /*background-color*/
-  color: white;
+  color: white; /*word color is wight*/
   top: -40px;
   right: -18px;
   padding: 4px 0;
