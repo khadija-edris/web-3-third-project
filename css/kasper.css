@@ -429,7 +429,7 @@ header nav .form i {
 .portfolio .more {
   background-color: var(--main-color); 
   color: white; /*color word*/
-  padding: 15px 20px;
+  padding: 15px 20px; /*space inside the border*/
   display: block;
   width: fit-content;
   margin: 30px auto;
