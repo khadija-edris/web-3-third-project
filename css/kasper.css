@@ -505,7 +505,7 @@ header nav .form i {
   text-align: center; /*the position of item in center*/
   background-image: url("../images/OIP\ \(8\).jpg"); /*put background-image*/
   background-size: cover; /*background-size: cover*/
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
 }
 .stats::before {
   content: "";
