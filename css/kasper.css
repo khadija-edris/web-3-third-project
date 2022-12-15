@@ -424,7 +424,7 @@ header nav .form i {
   margin-bottom: 10px; /*space outside bottom the text is 10px*/
 }
 .portfolio .imgs-container .box .caption p {
-  color: var(--main-color);
+  color: var(--main-color); 
 }
 .portfolio .more {
   background-color: var(--main-color);
