@@ -790,7 +790,7 @@ header nav .form i {
   background-image: url("../images/OIP\ \(10\).jpg"); 
   background-size: cover; 
   position: relative; /*posting method used for a linkes is relative*/
-  color: white;
+  color: white; 
 } 
 .subscribe::before {
   content: "";
