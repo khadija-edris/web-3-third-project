@@ -475,7 +475,7 @@ header nav .form i {
   background-color: black; /*background-coloring*/
   color: white; /*color word*/
   padding: 10px 20px; /*space inside the border*/
-  border: none;
+  border: none; /*the border is none*/
   text-transform: uppercase;
 }
 /* End Video */
