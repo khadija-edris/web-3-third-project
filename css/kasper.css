@@ -594,7 +594,7 @@ header nav .form i {
 }
 .our-skills .testimonials .content img {
   width: 100px; /*width is 100px*/
-  border-radius: 50%;
+  border-radius: 50%; /*border-radius is 50%*/
   margin-right: 50px;
 }
 @media (max-width: 767px) {
