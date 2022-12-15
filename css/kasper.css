@@ -665,7 +665,7 @@ header nav .form i {
 }
 .our-skills .skills .prog-holder .prog span::after {
   content: ""; /*content include with thinges you put*/
-  position: absolute;
+  position: absolute; /*abosting method used for a linkes is absolute*/
   border-style: solid;
   border-width: 8px;
   border-color: black transparent transparent;
