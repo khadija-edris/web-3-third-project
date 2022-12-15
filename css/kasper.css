@@ -660,7 +660,7 @@ header nav .form i {
   right: -18px; /*aligen to right*/
   padding: 4px 0; /*space inside the border*/
   width: 40px; /*width: 40px*/
-  text-align: center;
+  text-align: center; /*the position of item in center*/
   border-radius: 4px;
 }
 .our-skills .skills .prog-holder .prog span::after {
