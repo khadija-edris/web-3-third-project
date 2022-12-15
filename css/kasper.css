@@ -509,7 +509,7 @@ header nav .form i {
 }
 .stats::before {
   content: ""; /*content include with thinges you put*/
-  position: absolute;
+  position: absolute; /*abosting method used for a linkes is absolute*/
   left: 0;
   top: 0;
   width: 100%;
