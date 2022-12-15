@@ -538,7 +538,7 @@ header nav .form i {
 } 
 @media (min-width: 992px) {
   .stats .container .box {
-    flex-basis: 25%;
+    flex-basis: 25%; //*the flexible length on flexible items*/
   }
 }
 .stats .container .box i {
