@@ -176,7 +176,7 @@ header nav .form i {
   position: absolute; /*posting method used for a linkes is absolute*/
   font-size: 20px; /*font-size is 20px*/
   top: 50%;/*aligen to top by 50%*/
-  transform: translateY(-50%);
+  transform: translateY(-50%); /*the position move to left*/
   right: 0;
 }
 /* End Header */
