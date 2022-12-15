@@ -100,7 +100,7 @@ header .container {
   justify-content: space-between; /* position is space between */
   align-items: center; /*the position of item in center*/
   position: relative; /*posting method used for a linkes is relative*/
-  min-height: 97px;
+  min-height: 97px; /*minumam hight is 97px*/
 }
 header .container::after {
   content: "";
