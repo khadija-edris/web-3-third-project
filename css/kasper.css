@@ -743,9 +743,9 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/
   right: -15px; /*aligen to right*/
 } 
-.pricing .plans .plan ul {
+.pricing .plans .plan ul { 
   border-bottom: 1px solid var(--main-color); /*border-bottom is 1px solid*/
-}
+} 
 .pricing .plans .plan ul li {
   padding: 20px;
   position: relative;
