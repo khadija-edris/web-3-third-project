@@ -442,7 +442,7 @@ header nav .form i {
   position: relative; /*posting method used for a linkes is relative*/
 }
 .video::before {
-  content: "";
+  content: ""; /*content include with thinges you put*/
   position: absolute;
   left: 0;
   top: 0;
