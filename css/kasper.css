@@ -579,7 +579,7 @@ header nav .form i {
   margin: 0 0 30px; /*space outside the text*/
   font-weight: normal; /*font-weight is normal*/
   text-align: center; /*the position of item in center*/
-  text-transform: uppercase;
+  text-transform: uppercase; /*text is in uppercas*/
 }
 .our-skills .container > div > p {
   color: #777;
