@@ -361,7 +361,7 @@ header nav .form i {
   content: "\f108"; /*content include with thinges you put*/
   font-weight: 900; /*used to font-weight*/
   margin-right: 20px; /*space outside right the text is 20px*/
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   top: 1px;
 }
 /* End Design */
