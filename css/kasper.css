@@ -789,7 +789,7 @@ header nav .form i {
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
   background-image: url("../images/OIP\ \(10\).jpg"); 
   background-size: cover; 
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   color: white;
 } 
 .subscribe::before {
