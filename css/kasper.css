@@ -802,7 +802,7 @@ header nav .form i {
   background-color: rgb(0 0 0 / 50%); 
 } 
 .subscribe .container { 
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   display: flex;
   align-items: center;
 } 
