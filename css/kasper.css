@@ -77,7 +77,7 @@ ul {
   height: 14px; /*the hight is 14px*/
   border-radius: 50%; /* border radius is 50% */
   border: 2px solid #333; /* the border is 2px and is solid */
-  bottom: -38px;
+  bottom: -38px; /* aligen to bottom is -38px */
   background-color: white;
 }
 .main-heading p {
