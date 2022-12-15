@@ -174,7 +174,7 @@ header nav .form {
 header nav .form i {
   color: white; /*color word is white*/
   position: absolute; /*posting method used for a linkes is absolute*/
-  font-size: 20px;
+  font-size: 20px; /*font-size is 20px*/
   top: 50%;
   transform: translateY(-50%);
   right: 0;
