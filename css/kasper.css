@@ -319,7 +319,7 @@ header nav .form i {
 .design::before {
   content: ""; /*content include with thinges you put*/
   position: absolute; /*posting method used for a linkes is absolute*/
-  left: 0;
+  left: 0; /*aligen to left*/
   top: 0;
   width: 100%;
   height: 100%;
