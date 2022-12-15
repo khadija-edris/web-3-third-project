@@ -619,7 +619,7 @@ header nav .form i {
 .our-skills .testimonials .bullets {
   display: flex; /*specifies the display is flex*/
   justify-content: center; /*the position of item in center*/
-  margin-top: 50px;
+  margin-top: 50px; /*space outside top the text is 50px*/
   margin-bottom: 50px; /*space outside bottom the text is 50px*/
 }
 .our-skills .testimonials .bullets li {
