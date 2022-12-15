@@ -711,10 +711,10 @@ header nav .form i {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /*Filling the columns according to the area starts from 250 to 1fr*/
   gap: 30px; /*gap: 30px*/
 } 
-.pricing .plans .plan {
+.pricing .plans .plan { 
   background-color: #fcfcfc;
   text-align: center;
-}
+} 
 .pricing .plans .plan .head {
   padding: 40px 20px;
   border-top: 1px solid var(--main-color);
