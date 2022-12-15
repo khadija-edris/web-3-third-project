@@ -75,7 +75,7 @@ ul {
   transform: translateX(-50%); /* the position move to left */
   width: 14px; /* width = 14px */
   height: 14px; /*the hight is 14px*/
-  border-radius: 50%;
+  border-radius: 50%; /* border radius is 50% */
   border: 2px solid #333;
   bottom: -38px;
   background-color: white;
