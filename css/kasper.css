@@ -488,7 +488,7 @@ header nav .form i {
 .about img {
   position: relative; /*posting method used for a linkes is relative*/
   bottom: -120px; /*aligen to bottom*/
-  margin-top: -120px;
+  margin-top: -120px; /*space outside top the text is -120px*/
   max-width: 100%;
 }
 @media (max-width: 767px) {
