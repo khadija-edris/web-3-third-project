@@ -430,7 +430,7 @@ header nav .form i {
   background-color: var(--main-color); 
   color: white; /*color word*/
   padding: 15px 20px; /*space inside the border*/
-  display: block;
+  display: block; /*specifies the display is block*/
   width: fit-content;
   margin: 30px auto;
   text-decoration: none;
