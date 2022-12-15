@@ -250,7 +250,7 @@ header nav .form i {
   position: absolute; /*posting method used for a linkes is absolute*/
   left: 50%; /*aligen to left by 50%*/
   transform: translateX(-50%); /*the position move to left*/
-  bottom: 30px;
+  bottom: 30px; /*aligen to bottom */
   display: flex;
 }
 .landing .bullets li {
