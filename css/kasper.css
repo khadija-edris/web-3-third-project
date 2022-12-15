@@ -185,7 +185,7 @@ header nav .form i {
   min-height: 100vh; /*minumam height is 100vh*/
   background-color: #1f2021; /*background coloring*/
   background-image: url("../images/landing.jpg"); /*background image*/
-  background-size: cover;
+  background-size: cover; /*background size*/
   position: relative;
 }
 .landing .overlay {
