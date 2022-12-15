@@ -434,7 +434,7 @@ header nav .form i {
   width: fit-content; 
   margin: 30px auto; /*space outside the text */
   text-decoration: none; /*the style of text*/
-  text-transform: uppercase;
+  text-transform: uppercase; /*text is in uppercas*/
 }
 /* End Portfolio */
 /* Start Video */
