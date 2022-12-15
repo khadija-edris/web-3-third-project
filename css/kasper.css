@@ -649,7 +649,7 @@ header nav .form i {
   display: block; /*specifies the display is block*/
   background-color: var(--main-color);
   height: 100%; /*height is 100%*/
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
 }
 .our-skills .skills .prog-holder .prog span::before {
   content: attr(data-progress);
