@@ -303,8 +303,8 @@ header nav .form i {
   line-height: 2; /*line-height is 2*/
   color: #777; /*word color*/
 }
-/* End Services */
-/* Start Design */
+/* End Services */ 
+/* Start Design */ 
 .design {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
