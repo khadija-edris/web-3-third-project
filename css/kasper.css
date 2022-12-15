@@ -230,7 +230,7 @@ header nav .form i {
   line-height: 2; /*line-height is 2*/
 }
 .landing .change-background {
-  position: absolute;
+  position: absolute; /*posting method used for a linkes is absolute*/
   top: 50%;
   transform: translateY(-50%);
   color: #ddd;
