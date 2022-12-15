@@ -388,7 +388,7 @@ header nav .form i {
 }
 .portfolio .imgs-container .box {
   overflow: hidden; /*The overflow is clipped, and the rest of the content will be invisible*/
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
 }
 .portfolio .imgs-container .box:hover .caption {
   bottom: 0;
