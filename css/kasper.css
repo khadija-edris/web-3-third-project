@@ -943,7 +943,7 @@ header nav .form i {
   background-size: cover; 
   position: relative; /*posting method used for a linkes is relative*/
   color: white; 
-  text-align: center;
+  text-align: center; /*the position of item in center*/
 } 
 .footer::before {
   content: "";
