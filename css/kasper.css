@@ -864,7 +864,7 @@ header nav .form i {
 } 
 .contact .content { 
   display: flex; /*specifies the display is flex*/
-  justify-content: space-between;
+  justify-content: space-between; /*the position of item in between space*/
 } 
 @media (max-width: 767px) {
   .contact .content {
