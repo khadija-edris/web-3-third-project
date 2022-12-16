@@ -834,7 +834,7 @@ header nav .form i {
 .subscribe form input[type="submit"] { 
   width: 130px; /*width is 130px*/
   background-color: var(--main-color); 
-  color: white;
+  color: white; 
   padding: 10px 20px;
   border: 1px solid white;
   border-left: none;
