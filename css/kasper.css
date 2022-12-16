@@ -851,11 +851,11 @@ header nav .form i {
   line-height: 2; /*line-height is 2*/
   margin-left: 50px; /*space outside left the text is 50px */
 } 
-@media (max-width: 991px) {
-  .subscribe p {
+@media (max-width: 991px) { 
+  .subscribe p { 
     margin: 30px 0 0;
-  }
-}
+  } 
+} 
 /* End Subscribe */
 /* Start Contact */
 .contact {
