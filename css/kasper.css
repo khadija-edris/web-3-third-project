@@ -838,7 +838,7 @@ header nav .form i {
   padding: 10px 20px; /*space inside the border*/
   border: 1px solid white; /*border 1px is solid*/
   border-left: none; /*border-left is none*/
-  text-transform: uppercase;
+  text-transform: uppercase; /*text is in uppercas*/
 } 
 .subscribe form input[type="email"]:focus,
 .subscribe form input[type="submit"]:focus {
