@@ -969,7 +969,7 @@ header nav .form i {
   margin: 20px auto; /*space outside the text*/
 } 
 .footer .social-icons i { 
-  padding: 10px 15px;
+  padding: 10px 15px; /*space inside the border*/
 }  
 .footer .copyright {
   margin-top: 60px;
