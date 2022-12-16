@@ -862,10 +862,10 @@ header nav .form i {
   padding-top: var(--section-padding); 
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
 } 
-.contact .content {
+.contact .content { 
   display: flex;
   justify-content: space-between;
-}
+} 
 @media (max-width: 767px) {
   .contact .content {
     flex-direction: column;
