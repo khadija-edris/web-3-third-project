@@ -840,7 +840,7 @@ header nav .form i {
   border-left: none; /*border-left is none*/
   text-transform: uppercase; /*text is in uppercas*/
 } 
-.subscribe form input[type="email"]:focus,
+.subscribe form input[type="email"]:focus, 
 .subscribe form input[type="submit"]:focus {
   outline: none;
 }
