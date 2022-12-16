@@ -929,11 +929,11 @@ header nav .form i {
   color: #777; 
   line-height: 2; 
 } 
-@media (max-width: 767px) {
-  .contact .content .info address {
+@media (max-width: 767px) { 
+  .contact .content .info address { 
     margin-bottom: 40px;
-  }
-}
+  } 
+} 
 /* End Contact */
 /* Start Footer */
 .footer {
