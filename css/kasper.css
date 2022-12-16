@@ -968,9 +968,9 @@ header nav .form i {
   width: fit-content; /*width: fit-content*/
   margin: 20px auto; /*space outside the text*/
 } 
-.footer .social-icons i {
+.footer .social-icons i { 
   padding: 10px 15px;
-}
+}  
 .footer .copyright {
   margin-top: 60px;
 }
