@@ -906,12 +906,12 @@ header nav .form i {
     text-align: center; /*the position of item in center*/
   } 
 } 
-.contact .content .info h4 {
+.contact .content .info h4 { 
   text-transform: uppercase;
   margin-bottom: 30px;
   font-weight: 500;
   font-size: 18px;
-}
+} 
 .contact .content .info .phone {
   display: block;
   color: #777;
