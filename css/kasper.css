@@ -939,7 +939,7 @@ header nav .form i {
 .footer { 
   padding-top: calc(var(--section-padding) / 2); /*space top inside the border*/
   padding-bottom: calc(var(--section-padding) / 2); /*space bottom inside the border*/
-  background-image: url("../images/download\ \(4\).jpg");
+  background-image: url("../images/download\ \(4\).jpg"); 
   background-size: cover;
   position: relative;
   color: white;
