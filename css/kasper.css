@@ -860,7 +860,7 @@ header nav .form i {
 /* Start Contact */ 
 .contact { 
   padding-top: var(--section-padding); 
-  padding-bottom: var(--section-padding);
+  padding-bottom: var(--section-padding); /*space bottom inside the border*/
 } 
 .contact .content {
   display: flex;
