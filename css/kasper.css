@@ -962,7 +962,7 @@ header nav .form i {
 } 
 .footer p:not(.copyright) { 
   text-transform: uppercase; 
-  padding: 20px;
+  padding: 20px; 
   border-bottom: 1px solid white;
   font-size: 22px;
   width: fit-content;
