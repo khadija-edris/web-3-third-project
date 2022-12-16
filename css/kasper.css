@@ -975,7 +975,7 @@ header nav .form i {
   margin-top: 60px; /*space outside top the text*/
 } 
 .footer .copyright span { 
-  font-weight: bold;
+  font-weight: bold; 
   color: var(--main-color);
 } 
 /* End Footer */
