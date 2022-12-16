@@ -974,8 +974,8 @@ header nav .form i {
 .footer .copyright { 
   margin-top: 60px; /*space outside top the text*/
 } 
-.footer .copyright span {
+.footer .copyright span { 
   font-weight: bold;
   color: var(--main-color);
-}
+} 
 /* End Footer */
