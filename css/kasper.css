@@ -836,7 +836,7 @@ header nav .form i {
   background-color: var(--main-color); 
   color: white; 
   padding: 10px 20px; /*space inside the border*/
-  border: 1px solid white;
+  border: 1px solid white; /*border 1px is solid*/
   border-left: none;
   text-transform: uppercase;
 } 
