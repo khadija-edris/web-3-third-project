@@ -871,9 +871,9 @@ header nav .form i {
     flex-direction: column; /*flex-direction is column*/
   } 
 } 
-.contact .content form {
+.contact .content form { 
   flex-basis: 70%;
-}
+} 
 .contact .content form .main-input {
   padding: 20px;
   display: block;
