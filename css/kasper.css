@@ -845,7 +845,7 @@ header nav .form i {
   outline: none; /*no outline*/
 }
 .subscribe form ::placeholder { 
-  color: white;
+  color: white; 
 } 
 .subscribe p {
   line-height: 2;
