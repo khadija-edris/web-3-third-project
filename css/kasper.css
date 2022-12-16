@@ -892,7 +892,7 @@ header nav .form i {
   color: white; 
   padding: 20px; /*space inside the border*/
   border: none; 
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   margin-left: auto;
   text-transform: uppercase;
   cursor: pointer;
