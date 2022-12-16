@@ -913,7 +913,7 @@ header nav .form i {
   font-size: 18px; 
 } 
 .contact .content .info .phone { 
-  display: block;
+  display: block; /*specifies the display is block*/
   color: #777;
   margin-bottom: 10px;
 } 
