@@ -803,7 +803,7 @@ header nav .form i {
 } 
 .subscribe .container { 
   position: relative; /*posting method used for a linkes is relative*/
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   align-items: center;
 } 
 @media (max-width: 991px) {
