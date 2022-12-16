@@ -936,7 +936,7 @@ header nav .form i {
 } 
 /* End Contact */ 
 /* Start Footer */ 
-.footer {
+.footer { 
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
   background-image: url("../images/download\ \(4\).jpg");
@@ -944,7 +944,7 @@ header nav .form i {
   position: relative;
   color: white;
   text-align: center;
-}
+} 
 .footer::before {
   content: "";
   position: absolute;
