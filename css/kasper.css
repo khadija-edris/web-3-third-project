@@ -866,11 +866,11 @@ header nav .form i {
   display: flex; /*specifies the display is flex*/
   justify-content: space-between; /*the position of item in between space*/
 } 
-@media (max-width: 767px) {
-  .contact .content {
+@media (max-width: 767px) { 
+  .contact .content { 
     flex-direction: column;
-  }
-}
+  } 
+} 
 .contact .content form {
   flex-basis: 70%;
 }
