@@ -823,14 +823,14 @@ header nav .form i {
   transform: translateY(-50%); /*the position move to left*/
   left: 25px; /*aligen to left*/
 } 
-.subscribe form input[type="email"] {
+.subscribe form input[type="email"] { 
   border: 1px solid white;
   border-right: none;
   background: none;
   padding: 20px 20px 20px 60px;
   caret-color: var(--main-color);
   width: calc(100% - 130px);
-}
+} 
 .subscribe form input[type="submit"] {
   width: 130px;
   background-color: var(--main-color);
