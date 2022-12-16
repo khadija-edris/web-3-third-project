@@ -890,7 +890,7 @@ header nav .form i {
 .contact .content form input[type="submit"] { 
   background-color: var(--main-color); 
   color: white; 
-  padding: 20px;
+  padding: 20px; /*space inside the border*/
   border: none;
   display: flex;
   margin-left: auto;
