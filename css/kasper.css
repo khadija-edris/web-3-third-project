@@ -941,7 +941,7 @@ header nav .form i {
   padding-bottom: calc(var(--section-padding) / 2); /*space bottom inside the border*/
   background-image: url("../images/download\ \(4\).jpg"); 
   background-size: cover; 
-  position: relative;
+  position: relative; /*posting method used for a linkes is relative*/
   color: white;
   text-align: center;
 } 
