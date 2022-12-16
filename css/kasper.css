@@ -910,7 +910,7 @@ header nav .form i {
   text-transform: uppercase; /*text is in uppercas*/
   margin-bottom: 30px; /*space outside bottom the text*/
   font-weight: 500; 
-  font-size: 18px;
+  font-size: 18px; 
 } 
 .contact .content .info .phone {
   display: block;
