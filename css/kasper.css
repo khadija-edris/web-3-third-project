@@ -900,12 +900,12 @@ header nav .form i {
 .contact .content .info { 
   flex-basis: 25%; /*flex-basis is 25%*/
 } 
-@media (max-width: 767px) {
-  .contact .content .info {
+@media (max-width: 767px) { 
+  .contact .content .info { 
     order: -1;
     text-align: center;
-  }
-}
+  } 
+} 
 .contact .content .info h4 {
   text-transform: uppercase;
   margin-bottom: 30px;
