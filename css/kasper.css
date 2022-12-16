@@ -903,7 +903,7 @@ header nav .form i {
 @media (max-width: 767px) { 
   .contact .content .info { 
     order: -1;
-    text-align: center;
+    text-align: center; /*the position of item in center*/
   } 
 } 
 .contact .content .info h4 {
