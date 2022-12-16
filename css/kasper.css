@@ -818,7 +818,7 @@ header nav .form i {
   max-width: 100%; /*maximum width is 100%*/
 } 
 .subscribe form i { 
-  position: absolute;
+  position: absolute; /*abosting method used for a linkes is absolute*/
   top: 50%;
   transform: translateY(-50%);
   left: 25px;
