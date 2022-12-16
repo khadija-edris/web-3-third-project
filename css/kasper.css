@@ -926,7 +926,7 @@ header nav .form i {
   } 
 } 
 .contact .content .info address { 
-  color: #777;
+  color: #777; 
   line-height: 2;
 } 
 @media (max-width: 767px) {
