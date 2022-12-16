@@ -882,7 +882,7 @@ header nav .form i {
   width: 100%; /*width is 100%*/
 } 
 .contact .content form .main-input:focus { 
-  outline: none;
+  outline: none; /*no outline*/
 } 
 .contact .content form textarea.main-input {
   height: 200px;
