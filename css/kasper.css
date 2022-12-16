@@ -947,7 +947,7 @@ header nav .form i {
 } 
 .footer::before { 
   content: ""; 
-  position: absolute;
+  position: absolute; /*abosting method used for a linkes is absolute*/
   left: 0;
   top: 0;
   width: 100%;
