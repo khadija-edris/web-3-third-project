@@ -868,7 +868,7 @@ header nav .form i {
 } 
 @media (max-width: 767px) { 
   .contact .content { 
-    flex-direction: column;
+    flex-direction: column; /*flex-direction is column*/
   } 
 } 
 .contact .content form {
