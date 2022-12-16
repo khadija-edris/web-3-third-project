@@ -971,9 +971,9 @@ header nav .form i {
 .footer .social-icons i { 
   padding: 10px 15px; /*space inside the border*/
 }  
-.footer .copyright {
+.footer .copyright { 
   margin-top: 60px;
-}
+} 
 .footer .copyright span {
   font-weight: bold;
   color: var(--main-color);
