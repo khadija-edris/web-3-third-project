@@ -824,7 +824,7 @@ header nav .form i {
   left: 25px; /*aligen to left*/
 } 
 .subscribe form input[type="email"] { 
-  border: 1px solid white;
+  border: 1px solid white; /*border 1px is solid*/
   border-right: none;
   background: none;
   padding: 20px 20px 20px 60px;
