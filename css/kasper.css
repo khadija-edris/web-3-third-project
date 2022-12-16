@@ -23,7 +23,7 @@ ul {
   list-style: none;
 }
 .container { 
-  padding-left: 15px;
+  padding-left: 15px; /*space inside the border*/
   padding-right: 15px; /*space right inside the border*/
   margin-left: auto; /*space outside left the text*/
   margin-right: auto; /*space outside right the text*/
