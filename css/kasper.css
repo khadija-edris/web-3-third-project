@@ -885,7 +885,7 @@ header nav .form i {
   outline: none; /*no outline*/
 } 
 .contact .content form textarea.main-input { 
-  height: 200px;
+  height: 200px; 
 } 
 .contact .content form input[type="submit"] {
   background-color: var(--main-color);
