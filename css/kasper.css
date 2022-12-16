@@ -958,7 +958,7 @@ header nav .form i {
   position: relative; 
 } 
 .footer img { 
-  margin-bottom: 20px;
+  margin-bottom: 20px; /*space outside bottom the text*/
 } 
 .footer p:not(.copyright) {
   text-transform: uppercase;
