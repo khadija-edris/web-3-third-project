@@ -881,9 +881,9 @@ header nav .form i {
   margin-bottom: 30px; /*space outside bottom the text is 30px*/
   width: 100%; /*width is 100%*/
 } 
-.contact .content form .main-input:focus {
+.contact .content form .main-input:focus { 
   outline: none;
-}
+} 
 .contact .content form textarea.main-input {
   height: 200px;
 }
