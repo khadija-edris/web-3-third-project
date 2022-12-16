@@ -897,9 +897,9 @@ header nav .form i {
   text-transform: uppercase; /*text is in uppercas*/
   cursor: pointer;
 } 
-.contact .content .info {
+.contact .content .info { 
   flex-basis: 25%;
-}
+} 
 @media (max-width: 767px) {
   .contact .content .info {
     order: -1;
