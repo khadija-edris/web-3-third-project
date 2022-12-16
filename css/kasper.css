@@ -898,7 +898,7 @@ header nav .form i {
   cursor: pointer;
 } 
 .contact .content .info { 
-  flex-basis: 25%;
+  flex-basis: 25%; /*flex-basis is 25%*/
 } 
 @media (max-width: 767px) {
   .contact .content .info {
