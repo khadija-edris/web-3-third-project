@@ -937,7 +937,7 @@ header nav .form i {
 /* End Contact */ 
 /* Start Footer */ 
 .footer { 
-  padding-top: calc(var(--section-padding) / 2);
+  padding-top: calc(var(--section-padding) / 2); /*space top inside the border*/
   padding-bottom: calc(var(--section-padding) / 2);
   background-image: url("../images/download\ \(4\).jpg");
   background-size: cover;
