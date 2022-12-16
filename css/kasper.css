@@ -827,7 +827,7 @@ header nav .form i {
   border: 1px solid white; /*border 1px is solid*/
   border-right: none; /*border-right*/
   background: none; 
-  padding: 20px 20px 20px 60px;
+  padding: 20px 20px 20px 60px; /*space inside the border*/
   caret-color: var(--main-color);
   width: calc(100% - 130px);
 } 
