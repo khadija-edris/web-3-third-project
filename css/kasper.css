@@ -848,7 +848,7 @@ header nav .form i {
   color: white; 
 } 
 .subscribe p { 
-  line-height: 2;
+  line-height: 2; /*line-height is 2*/
   margin-left: 50px;
 } 
 @media (max-width: 991px) {
