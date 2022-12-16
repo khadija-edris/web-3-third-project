@@ -914,7 +914,7 @@ header nav .form i {
 } 
 .contact .content .info .phone { 
   display: block; /*specifies the display is block*/
-  color: #777;
+  color: #777; 
   margin-bottom: 10px;
 } 
 .contact .content .info h4:nth-of-type(2) {
