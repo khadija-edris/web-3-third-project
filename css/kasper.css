@@ -858,10 +858,10 @@ header nav .form i {
 } 
 /* End Subscribe */ 
 /* Start Contact */ 
-.contact {
+.contact { 
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-}
+} 
 .contact .content {
   display: flex;
   justify-content: space-between;
