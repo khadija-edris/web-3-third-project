@@ -812,7 +812,7 @@ header nav .form i {
   } 
 } 
 .subscribe form { 
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   position: relative;
   width: 500px;
   max-width: 100%;
