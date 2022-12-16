@@ -853,7 +853,7 @@ header nav .form i {
 } 
 @media (max-width: 991px) { 
   .subscribe p { 
-    margin: 30px 0 0;
+    margin: 30px 0 0; /*space outside the text*/
   } 
 } 
 /* End Subscribe */
