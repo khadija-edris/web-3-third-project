@@ -934,7 +934,7 @@ header nav .form i {
     margin-bottom: 40px; /*space outside bottom the text*/
   } 
 } 
-/* End Contact */
+/* End Contact */ 
 /* Start Footer */
 .footer {
   padding-top: calc(var(--section-padding) / 2);
