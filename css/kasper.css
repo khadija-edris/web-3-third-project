@@ -877,7 +877,7 @@ header nav .form i {
 .contact .content form .main-input { 
   padding: 20px; /*space inside the borde*/
   display: block; /*specifies the display is block*/
-  border: 1px solid #ccc;
+  border: 1px solid #ccc; /*border 1px is solid*/
   margin-bottom: 30px;
   width: 100%;
 } 
