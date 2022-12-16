@@ -820,7 +820,7 @@ header nav .form i {
 .subscribe form i { 
   position: absolute; /*abosting method used for a linkes is absolute*/
   top: 50%; /*aligen to top*/
-  transform: translateY(-50%);
+  transform: translateY(-50%); /*the position move to left*/
   left: 25px;
 } 
 .subscribe form input[type="email"] {
