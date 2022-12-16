@@ -815,7 +815,7 @@ header nav .form i {
   display: flex; /*specifies the display is flex*/
   position: relative; /*posting method used for a linkes is relative*/
   width: 500px; /*width is 500px*/
-  max-width: 100%;
+  max-width: 100%; /*maximum width is 100%*/
 } 
 .subscribe form i {
   position: absolute;
