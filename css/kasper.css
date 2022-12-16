@@ -863,7 +863,7 @@ header nav .form i {
   padding-bottom: var(--section-padding); /*space bottom inside the border*/
 } 
 .contact .content { 
-  display: flex;
+  display: flex; /*specifies the display is flex*/
   justify-content: space-between;
 } 
 @media (max-width: 767px) {
