@@ -972,7 +972,7 @@ header nav .form i {
   padding: 10px 15px; /*space inside the border*/
 }  
 .footer .copyright { 
-  margin-top: 60px;
+  margin-top: 60px; /*space outside top the text*/
 } 
 .footer .copyright span {
   font-weight: bold;
