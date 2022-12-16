@@ -832,7 +832,7 @@ header nav .form i {
   width: calc(100% - 130px); /*width calculate(100% - 130px)*/
 } 
 .subscribe form input[type="submit"] { 
-  width: 130px;
+  width: 130px; /*width is 130px*/
   background-color: var(--main-color);
   color: white;
   padding: 10px 20px;
