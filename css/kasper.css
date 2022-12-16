@@ -908,7 +908,7 @@ header nav .form i {
 } 
 .contact .content .info h4 { 
   text-transform: uppercase; /*text is in uppercas*/
-  margin-bottom: 30px;
+  margin-bottom: 30px; /*space outside bottom the text*/
   font-weight: 500;
   font-size: 18px;
 } 
