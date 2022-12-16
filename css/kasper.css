@@ -806,11 +806,11 @@ header nav .form i {
   display: flex; /*specifies the display is flex*/
   align-items: center; /*the position of item in center*/
 } 
-@media (max-width: 991px) {
-  .subscribe .container {
+@media (max-width: 991px) { 
+  .subscribe .container { 
     flex-direction: column;
-  }
-}
+  } 
+} 
 .subscribe form {
   display: flex;
   position: relative;
